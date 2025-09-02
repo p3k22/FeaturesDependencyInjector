@@ -1,0 +1,14 @@
+{
+    "name": "com.p3k.featuresdependencyinjector",
+    "version": "1.0.0",
+    "displayName": "Features Dependency Injector",
+    "description": "",
+    "unity": "2020.1",
+    "documentationUrl": "https://github.com/p3k22/FeaturesDependencyInjector#readme",
+    "author": {
+        "name": "P3k"
+    },
+    "gitdependencies": {
+        "com.p3k.featuresdependencyinstaller": "https://github.com/p3k22/FeaturesDependencyInstaller.git"
+    }
+}

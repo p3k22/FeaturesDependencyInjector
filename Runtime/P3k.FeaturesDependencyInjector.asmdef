@@ -1,0 +1,16 @@
+{
+    "name": "P3k.FeaturesDependencyInjector",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6ce0683fb29baa04cba7c03cb854ebeb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
